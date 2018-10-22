@@ -1,1 +1,1 @@
-Implementation of algorithms in different languages
+Implementation of algorithms in C, Python, C++
